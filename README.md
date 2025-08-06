@@ -1,4 +1,4 @@
-### Simple YouTube Video Downloader for Windows
+## Simple YouTube Video Downloader for Windows
 
 This is a super simple Windows script that handles the entire download process for you. Just save it as a **.bat** file and run it whenever you want to download a video.
 
